@@ -1,0 +1,18 @@
+{
+    "fr": {
+       "pageTitle": "Bonjour",
+       "title": "Ca va ?",
+       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931958%29.svg/langfr-225px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931958%29.svg.png"
+       
+    },
+    "en": {
+       "pageTitle": "Hello",
+       "title": "How are you ?", 
+       "image": "https://www.cdiscount.com/pdt2/8/1/2/1/700x700/auc3700913824812/rw/serviette-de-plage-union-jack-drapeau-anglais-175.jpg"
+    },
+    "es": {
+       "pageTitle": "Hola",
+       "title": "Que tal ?",
+       "image" : "https://borney.com/1518-medium_default/drapeau-espagne-avec-ecusson.jpg"
+    }
+ }
